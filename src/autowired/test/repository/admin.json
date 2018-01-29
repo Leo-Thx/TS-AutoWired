@@ -1,0 +1,64 @@
+[{
+    "id" : "12345",
+    "name" : "管理员",
+    "age" : "12",
+    "phone" : "13201093733",
+    "address" : {
+        "province" : "广东省",
+        "city" : "深圳市",
+        "detail" : "龙华某个地方"
+    },
+    "testArray" : ["str1", "str2"],
+    "testAddressArr" : [
+        {
+            "province" : "广东省1",
+            "city" : "深圳市1",
+            "detail" : "龙华某个地方1"
+        },{
+            "province" : "广东省2",
+            "city" : "深圳市2",
+            "detail" : "龙华某个地方2"
+        }
+    ],
+    "testUserArr" : [
+        {
+            "id" : "1232",
+            "name" : "呵呵用户",
+            "age" : "15",
+            "phone" : "13201093733",
+            "address" : {
+                "province" : "广东省",
+                "city" : "深圳市",
+                "detail" : "龙华某个地方"
+            },
+            "username" : "user用户",
+            "password" : "userpassword"
+        }
+    ],
+    "username" : "admin",
+    "password" : "admin"
+},{
+    "id" : "12342",
+    "name" : "不知道的管理员",
+    "age" : "18",
+    "phone" : "13201093733",
+    "address" : {
+        "province" : "广东省",
+        "city" : "深圳市",
+        "detail" : "龙华某个地方"
+    },
+    "username" : "Admin",
+    "password" : "123"
+}, {
+    "id" : "1232",
+    "name" : "呵呵管理员",
+    "age" : "15",
+    "phone" : "13201093733",
+    "address" : {
+        "province" : "广东省",
+        "city" : "深圳市",
+        "detail" : "龙华某个地方"
+    },
+    "username" : "hehe",
+    "password" : "admin"
+}]
